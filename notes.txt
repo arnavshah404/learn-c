@@ -4,3 +4,4 @@ These are my notes while learning C.
 - Functions
 - Loops
 More content will come as I learn.
+// Minor updates sometimes come from unusual sources
