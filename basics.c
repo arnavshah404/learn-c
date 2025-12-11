@@ -6,3 +6,4 @@ int main() {
     printf("Sum = %d\n", a + b);
     return 0;
 }
+// Updated comments for clarity
